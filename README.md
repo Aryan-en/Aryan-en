@@ -9,6 +9,27 @@ My journey began in Chemical Engineering at NIT Karnataka, where I developed a d
 I enjoy building applications that combine intelligent systems with practical usability, particularly in areas such as accessibility, decision systems, and data-driven applications.
 
 ---
+```md
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Aryan-en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Aryan-en&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-en&theme=tokyonight&hide_border=true&layout=compact)
+```
+---
+```md
+## Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```
+---
 
 ## Experience
 
