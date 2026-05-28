@@ -10,57 +10,6 @@ I enjoy building applications that combine intelligent systems with practical us
 
 ---
 
-## Technical Skills
-
-### Languages
-
-* Swift
-* Python
-* Dart
-* C++
-
-### Frameworks & Technologies
-
-* SwiftUI
-* Flutter
-* TensorFlow
-* Firebase
-
-### Tools
-
-* Xcode
-* Git & GitHub
-* Jupyter Notebook
-
-### Domains
-
-* iOS Development
-* Machine Learning
-* Data Science
-* AI Applications
-
----
-
-## Selected Projects
-
-### ISL Translator
-
-An AI-powered Indian Sign Language translation system focused on improving accessibility and communication.
-
-### Ontora
-
-A decision intelligence and security enhancement platform designed to assist with safer and more informed workflows.
-
-### MatchaAI
-
-A sports companion application integrating analytics, AI-driven insights, and interactive user experiences.
-
-### Gramin Saathi
-
-A technology initiative focused on addressing rural challenges through accessible and scalable digital solutions.
-
----
-
 ## Experience
 
 ### Open Source Contributor — GirlScript Summer of Code
