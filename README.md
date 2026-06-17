@@ -12,10 +12,6 @@ I enjoy building applications that combine intelligent systems with practical us
 
 ## Experience
 
-### Open Source Contributor — GirlScript Summer of Code
-
-Contributing to open-source repositories while collaborating with developers across large-scale community projects.
-
 ### Software Development Intern — Only Click
 
 Worked on application features and product improvements within a startup environment, contributing to production-level workflows and development cycles.
