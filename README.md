@@ -2,6 +2,8 @@
 
 ### iOS & AI Developer | CSE (Data Science) @ PEC Chandigarh | Ex-NITK
 
+Portfolio: https://portfolio-website-nu-red-82.vercel.app
+
 I’m a Computer Science student specializing in Data Science with a strong interest in iOS development, artificial intelligence, and building technology-driven solutions for real-world problems.
 
 My journey began in Chemical Engineering at NIT Karnataka, where I developed a deep interest in software engineering, AI, and product development. I later transitioned into Computer Science at PEC Chandigarh to pursue this path more seriously.
