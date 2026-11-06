@@ -64,7 +64,7 @@ My interests lie at the intersection of **Artificial Intelligence, Software Engi
 | Project | Description | Technologies |
 |:---|:---|:---|
 | **[Ontora](https://github.com/Aryan-en/Ontora)** | Intelligence and ontology analysis platform featuring knowledge graph exploration, AI-oriented dashboards, and data visualization. | Next.js, TypeScript, React, AI/ML |
-| **PlanFolks** | Social planning platform with mobile and web applications, authentication, backend services, and social features. | Flutter, Next.js, FastAPI, PostgreSQL, Redis |
+| **[PlanFolks](https://www.planfolks.com)** | Social planning platform with mobile and web applications, authentication, backend services, and social features. | Flutter, Next.js, FastAPI, PostgreSQL, Redis |
 | **[IIT Roorkee DataForge](https://github.com/Aryan-en/IITR_DF_Finals)** | Award-winning AI solution focused on retrieval-augmented generation and intelligent information processing. | Python, FastAPI, FAISS, RAG |
 | **[PEC App Platform](https://github.com/Aryan-en/PEC_APP_Platform)** | Full-stack application platform developed around campus-oriented digital services. | Next.js, Backend APIs, Databases |
 | **[Aura OS](https://github.com/Aryan-en/Aura-OS)** | Experimental agentic AI operating-system project exploring intelligent interaction and automation. | Linux, AI Agents, Systems Engineering |
